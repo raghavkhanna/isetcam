@@ -62,7 +62,7 @@ scene = sceneCreate('macbeth d65');
 % database:
 ieAddObject(scene);
 
-% Then we call the function sceneWindow which displays the object This call
+% Then we call the function sceneWindow which displays the object. This call
 % opens the  graphical interface and displays the current scene
 sceneWindow;
 
